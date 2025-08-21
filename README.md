@@ -144,5 +144,5 @@ Please fork the repository and submit pull requests. For significant changes, op
 
 ---
 
-Made with ❤️ by MUPPA HEMANTH
+Made with ❤️ by Vinay Teja
 
