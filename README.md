@@ -34,6 +34,7 @@ This project is a full-stack MERN web application that allows users to effortles
 - Clerk account ([clerk.dev](https://clerk.dev/))
 - Razorpay account ([razorpay.com](https://razorpay.com/))
 - ClipDrop API key
+- link-https://clipaway-bg-removal.vercel.app/
 
 ### Backend Setup
 
