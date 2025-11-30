@@ -40,7 +40,7 @@ This project is a full-stack MERN web application that allows users to effortles
 
 1. **Clone the repository:**
     ```
-    git clone https://github.com/Hemanth-Muppa/ClipAway.git
+    git clone https://github.com/VinayTeja-Gonagala/ClipAway.git
     cd server
     ```
 
